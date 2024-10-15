@@ -1,4 +1,4 @@
-# Quiz Game
+# QuizSphere
 
 ## Overview
 
